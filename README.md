@@ -1,33 +1,50 @@
-# 💫 About Me:
-👋 ¡Hola! Soy Jesús<br>Soy estudiante de la Universidad Carlos III de Madrid (UC3M) y estoy metido de lleno en la carrera. Me gusta la programación y entender cómo funcionan las cosas desde la base.<br><br>🔹 Siempre intento escribir código claro y fácil de seguir.<br>🔹 Me interesan los sistemas operativos, los lenguajes formales y la teoría de la computación.<br>🔹 Siempre con ganas de aprender y afrontar nuevos retos.
+<div align="center">
+  <h1>👋 Hola, soy Jesús Galán</h1>
+  <h3>Head of Telemetry & Sensorization @ <a href="https://github.com/Moto-Maqlab-UC3M">MotoMaqLab UC3M</a></h3>
+  <p>
+    <i>"Transformando datos en velocidad. Ingeniería desde la base."</i>
+  </p>
 
+  <a href="https://www.linkedin.com/in/Jesús-Galán-Elices">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:jesusgalanelices@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_jesus.galan_">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ _jesus.galan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jesús Galán Elices ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jesusgalanelices@gmail.com) 
+<br />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JesusGalan8&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JesusGalan8&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusGalan8&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 👨‍💻 Sobre mí
+Soy estudiante de ingeniería en la **Universidad Carlos III de Madrid** y apasionado del mundo del motor y la tecnología. 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JesusGalan8&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JesusGalan8&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Actualmente lidero el departamento de **Telemetría y Sensorización** en el equipo de competición universitario **MotoMaqLab**, donde diseño sistemas para la adquisición de datos en tiempo real. Me obsesiona escribir código eficiente (C/C++) y entender cómo interactúa el software con el hardware físico.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JesusGalan8&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Arsenal Técnico
 
+**📡 Embedded & Hardware (Telemetría)**
+<br>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Hardware-Sensors-FF5722?style=flat-square&logo=espressif&logoColor=white" />
 
------
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
+**💻 Software & Web Development**
+<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 
-Last Edited on: 04/09/2021
+---
+
+### 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JesusGalan8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="
