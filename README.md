@@ -1,5 +1,5 @@
 <div align="center">
-  <<img src="https://raw.githubusercontent.com/JesusGalan8/JesusGalan8/main/moto.jpg" width="100%" style="border-radius: 10px;" alt="Moto Telemetry" />
+  <<img src="https://raw.githubusercontent.com/JesusGalan8/JesusGalan8/main/moto.jpg" width="50%" style="border-radius: 10px;" alt="Moto Telemetry" />
   <br/><br/>
   
   <h1>👋 Hola, soy Jesús Galán</h1>
