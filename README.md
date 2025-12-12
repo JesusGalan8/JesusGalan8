@@ -28,7 +28,7 @@ Actualmente lidero la **Telemetría y Sensorización** en **MotoMaqLab**, donde 
 
 ### 🛠️ Arsenal Técnico
 
-**📡 Embedded & Low Level (El Hierro)**
+**📡 Embedded & Low Level**
 <br>
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -36,7 +36,7 @@ Actualmente lidero la **Telemetría y Sensorización** en **MotoMaqLab**, donde 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/Hardware-Sensors-FF5722?style=flat-square&logo=espressif&logoColor=white" />
 
-**💻 Data & Software (La Lógica)**
+**💻 Data & Software**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white" />
